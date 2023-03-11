@@ -2,7 +2,7 @@
 #### Web Devoloper
 I'm a web developer who is enjoy work with HMTL5, CSS3,Tailwindcss, JavaScript, Bootstrap, ReactJS, NodeJS, PHP, Laravel, MySQL, Java, Python, MongoDB. I'm passionate about making error-free websites. I have excellent problem-solving skills and the ability to work collaboratively with designers, project managers and clients. Last year I have made a lot of websites for my clients.
 
-Skills: REACT / JS / HTML / CSS/CSS3/JAVA/TAILWINDCSS/BOOTSTRAP/PHP/PYTHON/MONGODB
+Skills: REACT / JS / HTML / CSS / CSS3 / JAVA / TAILWINDCSS / BOOTSTRAP / PHP / PYTHON / MONGODB
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning javaScript 
