@@ -19,8 +19,6 @@ Skills: REACT / JS / HTML / CSS/CSS3/JAVA/TAILWINDCSS/BOOTSTRAP/PHP/PYTHON/MONGO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khubaib004&show_icons=true)  
 
-![radical][radical] | `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] 
-
 ![GitHub metrics](https://metrics.lecoq.io/khubaib004)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=khubaib004)  
